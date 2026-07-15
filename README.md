@@ -1,26 +1,30 @@
-## What I understand
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="80" height="80"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" alt="c#" width="80" height="80"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="80" height="80"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="80" height="80"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="godot" width="80" height="80"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="80" height="80"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github actions" alt="github actions" width="80" height="80"/>&nbsp
-  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_gamemaker2.svg" title="gml" alt="gml" width="80" height="80"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="80" height="80"/>&nbsp
-</div>
+## What I understand well (comfortable giving advice)
+
+- **GameMakerLanguage**: 3+ years of experience of working on a god forgotten project written in GML. I hate it, but I understand it very well now. And it makes me hate it more. If you're reading this - NEVER use it for any purpose. Use Godot.
+- **GitHub Actions**: Same as the above. Had to maintain and write a lot of actions to automate a lot of the workflow.
+- **Git**: Self-explanatory why, I hope.
+- **YAML**: Had to work with it a lot while modding OpenXcom. *The* best user-facing data format. JSON, XML, TOML, INI? Nuh-uh.
+
+## What I understand a bit (can work with, but not give advice)
+
+- **Godot**: Working on my own project in Godot C#.
+- **C#**: Same as above. Learning it after GML actually is very pleasant, albeit strange in places (a language that doesn't torture me? whaa?).
+- **Python**: Had to write some scripts in the past to assist in other projects. Also have a hobby discord-llm bot fork written in Python. It's fun.
+- **JavaScript**: Plenty similar to GML. Also had to work on some personal forks, adding things I needed.
+- **TypeScript**: Why does JS exist if this exist?
+- **HTML5**: Had to work with design and stuff while working on some projects. Barely understand some of the tags, but can get the job done with some reading.
 
 ## What I use
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="80" height="80"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="gimp" alt="gimp" width="80" height="80"/>&nbsp
-</div>
+
+- **Visual Studio: Code**: My beloved.
+- **GIMP**: Photoshop for the ~~poor~~ based.
 
 ## How to reach me
+
 - Discord: `ettykitty.` (yes, with a dot at the end)
 
 ## PC specs
+
 - Case: Zalman Z9 Plus Black.
 - Motherboard: GIGABYTE GA-Z87-HD3.
 - CPU: Intel Core i5 4670K.
@@ -30,8 +34,9 @@
 - Network: 100 Mbit/s.
 
 ## What I don't like
-1. Arcade shooters, (CS, Overwatch, COD...), battle royal (PUBG, Fortnite...), MOBA (Dota, LoL, Smite) and other similar games and everything that is somehow related with this mainstream shit. Been there. Ashamed of that more than I want to admit.
-2. Endless AAA series with a lot of money that age like milk. Battlefield, COD, Assassin's Creed, etc; listing all of these games nowadays can take weeks. Buying this = sponsoring game industry downfall. Cringe, smh, have some responsibility.
-3. Casual, easy, and boring games for preschoolers. I love torture (**Barque** my beloved).
-4. PvP or competitive games. I don't really know why, it just feels like I grew up from this. I don't need to fight and prove myself to feel good anymore. I can even say that I feel a little sad when I win against someone. I think it's just a luck. Today - on my side, tomorrow - on theirs. And I know how you feel when you have a team full of douchebags, who play *for fun* and not *to win*. So nah, I feel better when I do something *with* someone, not *against*.
-5. I don't like most of the new games, even though I'm pretty young. For example, the new X-COM games for me are just a soulless piece of shit, at the same time the 1998 game (UFO Defense), which came before I was even born - is a masterpiece.
+
+1. Burned out on mainstream shooters, BRs, and MOBAs. Been there, ashamed of it.
+2. AAA franchises that age like milk. Buying them sponsors gaming's decline. Have some responsibility.
+3. Casual games bore me. I prefer torture (Barque my beloved).
+4. Grew out of PvP. Winning feels like luck, losing feels worse. I'd rather build with someone than fight against them.
+5. Most new games feel soulless. The 1998 original UFO Defense? Masterpiece. The new X-COM? Trash.
